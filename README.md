@@ -1,3 +1,6 @@
+# FIRST
+This is an old (4.0.0) version of serum.  It is around really only for making sure that you can compile the anchor umbrella project.
+
 # serum-dex
 
 ## Deploying the DEX
