@@ -1,6 +1,8 @@
 #![deny(safe_packed_borrows)]
 #![allow(clippy::try_err)]
 
+pub extern crate self as serum_dex;
+
 #[macro_use]
 pub mod error;
 
