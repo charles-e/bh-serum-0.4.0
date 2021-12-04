@@ -64,11 +64,11 @@ version = "1.0.20"
 version = "0.2.1"
 
 [dependencies.safecoin-program]
-version="1.7.17"
+path = "../Safecoin/sdk/program"
 
 [dependencies.safe-token]
 features = [ "no-entrypoint" ]
-version="3.2.0"
+path = "../safecoin-program-library/token/program"
 
 [dev-dependencies.bumpalo]
 version = "3.4.0"
